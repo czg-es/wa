@@ -27,6 +27,7 @@ body{
     background: black;
     scrollbar-width: thin;
     /* scrollbar-color: red yellow; */
+    touch-action: auto;
 }
 .c149{
     background: var(--background);

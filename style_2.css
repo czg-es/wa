@@ -1,6 +1,7 @@
 @import url("https://themes.googleusercontent.com/fonts/css?kit=-lTUqgJg2dxbe4D7B5DEIA3jn2WilaVUapNOYl4762s");
 body{
-    font-family:"Montserrat"
+    font-family:"Montserrat";
+    touch-action: auto;
 }
 a {
     text-decoration: none;
