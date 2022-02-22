@@ -1,0 +1,51 @@
+@import url("https://themes.googleusercontent.com/fonts/css?kit=-lTUqgJg2dxbe4D7B5DEIA3jn2WilaVUapNOYl4762s");
+body{
+    font-family:"Montserrat"
+}
+a {
+    text-decoration: none;
+}
+.c46, .c28 {
+    font-weight: 700;
+}
+.c49 {
+    background-color: #b6d7a8;
+}
+.c66 {
+    background-color: #d9ead3;
+}
+table{
+    align-content: center;
+}
+td{
+    padding: 0.5rem;
+    border: #000 1px solid;
+}
+
+.c92, .c96 {
+    font-size: large;
+    border-right-style: solid;
+    padding-top: 6pt;
+    border-top-width: 1pt;
+    border-bottom-color: #b8860b;
+    border-right-width: 1pt;
+    padding-left: 6pt;
+    border-left-color: #b8860b;
+    padding-bottom: 6pt;
+    line-height: 1.15;
+    border-right-color: #b8860b;
+    border-left-width: 1pt;
+    border-top-style: solid;
+    border-left-style: solid;
+    border-bottom-width: 1pt;
+    border-top-color: #b8860b;
+    border-bottom-style: solid;
+    text-align: left;
+    padding-right: 6pt;
+}
+
+.c62 {
+    background-color: #ffff00;
+    font-family: "Montserrat";
+    font-weight: 400;
+}
